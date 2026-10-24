@@ -71,7 +71,7 @@ I work primarily with **Unity and C#**, exploring the intersection of gameplay p
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/anshch005/anshch005/output/pacman-contribution-graph.svg"
+    src="https://raw.githubusercontent.com/anshch005/anshch005/output/pacman-contribution-graph-dark.svg"
     alt="Pac-Man eating my GitHub contributions"
     width="100%"
   />
