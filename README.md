@@ -66,3 +66,13 @@ I work primarily with **Unity and C#**, exploring the intersection of gameplay p
 <p align="center">
   <i>Thanks for stopping by. See you in the next build!</i>
 </p>
+
+## `05 // ARCADE MODE`
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/anshch005/anshch005/output/pacman-contribution-graph.svg"
+    alt="Pac-Man eating my GitHub contributions"
+    width="100%"
+  />
+</p>
